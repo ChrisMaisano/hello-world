@@ -1,2 +1,3 @@
 # hello-world
-Learning how to walk
+
+Just another radical coder trying to change the world! 
